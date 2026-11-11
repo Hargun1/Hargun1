@@ -1,5 +1,5 @@
 <h1 align="center">Hargun Madan</h1>
-<p align="center"><strong>Backend &amp; Full-Stack Development · Applied AI</strong></p>
+<p align="center"><img src="assets/profile-banner.svg" alt="Backend systems and applied AI" width="920"></p>
 <p align="center">B.Tech in AI &amp; ML at MSRIT · Class of 2028 · Bengaluru, India</p>
 
 I build web apps where the backend has to keep state consistent, whether several people are editing the same document or two customers are trying to book the same seat. I also build LLM and computer vision features that people can try through a web interface.
@@ -21,6 +21,6 @@ I build web apps where the backend has to keep state consistent, whether several
 
 ## Tech stack
 
-- **Languages** · JavaScript, Java, Python, SQL
-- **Web** · React, Node.js, Express, REST APIs, WebSockets
-- **Data and infrastructure** · PostgreSQL, MongoDB, Redis, Docker
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827) ![React](https://img.shields.io/badge/React-172540?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-173328?style=flat-square&logo=nodedotjs&logoColor=a3e635) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C3052?style=flat-square&logo=postgresql&logoColor=ffffff) ![Redis](https://img.shields.io/badge/Redis-4A1D34?style=flat-square&logo=redis&logoColor=fda4af) ![Docker](https://img.shields.io/badge/Docker-153859?style=flat-square&logo=docker&logoColor=7dd3fc)
+
+I also work with Java, Python, SQL, Express, REST APIs, WebSockets, and MongoDB.
