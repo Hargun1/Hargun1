@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="190" viewBox="0 0 920 190" role="img" aria-labelledby="title">
+  <title id="title">Backend systems and applied AI</title>
+  <defs>
+    <linearGradient id="background" x2="100%" y2="100%">
+      <stop stop-color="#101b35"/><stop offset="1" stop-color="#131029"/>
+    </linearGradient>
+    <linearGradient id="edge">
+      <stop stop-color="#5eead4"/><stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#b5b5ef" stroke-opacity=".09"/>
+    </pattern>
+    <style>
+        @media (prefers-reduced-motion: reduce) { .pulse { display: none; } }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="918" height="188" rx="19" fill="url(#background)" stroke="#575078"/>
+  <rect x="2" y="2" width="916" height="186" rx="18" fill="url(#grid)"/>
+  <path d="M2 43H918" stroke="#575078" stroke-opacity=".65"/>
+  <g>
+    <circle cx="24" cy="23" r="4" fill="#fda4af"/>
+    <circle cx="39" cy="23" r="4" fill="#fde68a"/>
+    <circle cx="54" cy="23" r="4" fill="#5eead4"/>
+  </g>
+  <g font-family="ui-monospace, Consolas, monospace">
+    <text x="76" y="28" fill="#c4b5fd" font-size="13">hargun1 / engineering</text>
+    <text x="32" y="110" fill="#f8fafc" font-size="37" font-weight="700">Backend systems</text>
+    <text x="34" y="148" fill="#8bf5df" font-size="25">&amp; applied AI</text>
+  </g>
+  <g fill="none" stroke="url(#edge)" stroke-opacity=".58" stroke-width="2">
+    <path d="M561 88H640L675 117H718"/>
+    <path d="M561 146H640L675 117"/>
+    <path d="M758 117H855"/>
+  </g>
+  <g fill="#121730" stroke="url(#edge)" stroke-width="2">
+    <circle cx="561" cy="88" r="6"/><circle cx="561" cy="146" r="6"/>
+    <rect x="718" y="97" width="40" height="40" rx="9"/>
+    <circle cx="855" cy="117" r="6"/>
+  </g>
+  <path d="m734 110-7 7 7 7m8-14 7 7-7 7" fill="none" stroke="#e2e8f0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <path class="pulse" d="M564 88H640L675 117H716" fill="none" stroke="#8bf5df" stroke-width="3" stroke-linecap="round" pathLength="100" stroke-dasharray="5 95" opacity=".85">
+    <animate attributeName="stroke-dashoffset" values="0;-100" dur="3.8s" repeatCount="indefinite"/>
+  </path>
+</svg>
